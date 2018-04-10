@@ -354,7 +354,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cd42df9c1cc51240b9509b89f3d3260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  House: {fileID: 377118669}
+  House: {fileID: 0}
 --- !u!1 &438449711
 GameObject:
   m_ObjectHideFlags: 0
@@ -460,8 +460,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2102c152549dd52419f0a679d0a902c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  House1: {fileID: 377118669}
-  HouseSpawner: {fileID: 438449711}
+  House1: {fileID: 0}
+  HouseSpawner: {fileID: 0}
 --- !u!1 &564710790
 GameObject:
   m_ObjectHideFlags: 0
@@ -686,7 +686,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d79a8c82385bec4db59833b45826373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Dragon: {fileID: 930086646}
+  Dragon: {fileID: 135152700}
 --- !u!212 &930086648
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1075,10 +1075,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98f8a69332f728b408535cf8e8f27f3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Egg: {fileID: 1366240512}
-  Dragon: {fileID: 135152700}
-  counterText: {fileID: 564710792}
-  DropEggbtn: {fileID: 570221163}
+  Egg: {fileID: 0}
+  Dragon: {fileID: 0}
+  counterText: {fileID: 0}
+  DropEggbtn: {fileID: 0}
 --- !u!114 &1537827463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1239,7 +1239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33271fc598e257b45899a54b94fcdd66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeText: {fileID: 1245631545}
+  timeText: {fileID: 0}
 --- !u!1 &2081140928
 GameObject:
   m_ObjectHideFlags: 0
